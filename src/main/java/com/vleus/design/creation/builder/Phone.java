@@ -1,4 +1,4 @@
-package com.vleus.design.creation.factory.builder;
+package com.vleus.design.creation.builder;
 
 /**
  * @author vleus
